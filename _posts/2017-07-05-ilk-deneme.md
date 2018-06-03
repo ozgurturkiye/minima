@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bakalım başardık mı  !
+title: Bakalım başardık mı!
 ---
 
 Bu kısımları alt alta deneme için yazdık.
